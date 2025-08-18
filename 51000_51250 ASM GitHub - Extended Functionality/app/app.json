@@ -1,0 +1,33 @@
+{
+    "id": "b3063b00-7c60-11f0-a4a2-2f101bde5e03",
+    "name": "ASM GitHub - Extended Functionality",
+    "publisher": "Stoneridge Software, LLC",
+    "brief": "Testing GitHub",
+    "description": "Testing GitHub\\Release Notes:\\08/18/25  Anna Smorodynova - created version 25.0.250818.0",
+    "version": "25.0.250818.0",
+    "privacyStatement": "https://stoneridgesoftware.com/privacy-statement/",
+    "EULA": "https://stoneridgesoftware.com/software-license-and-use-policy/",
+    "help": "https://stoneridgesoftware.com/contact-us/",
+    "contextSensitiveHelpUrl": "https://stoneridgesoftware.com/contact-us/",
+    "url": "https://stoneridgesoftware.com/",
+    "logo": "logo/stoneridge.png",
+    "screenshots": [],
+    "features": [
+        "TranslationFile"
+    ],
+    "dependencies": [],
+    "platform": "25.0.0.0",
+    "application": "25.0.0.0",
+    "runtime": "14.0",
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "idRanges": [
+        {
+            "from": 51000,
+            "to": 51250
+        }
+    ]
+}

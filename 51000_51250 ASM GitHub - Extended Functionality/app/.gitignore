@@ -1,0 +1,14 @@
+## --- AL gitignore ---
+## File must be ASCII format
+## Ignores generated binary files
+
+# Binary files
+.alpackages/*
+*.app
+.alcache/*
+.altemplates/*
+Translations/*
+.vscode/.altemplates/*
+.vscode/.alcache/*
+.vscode/rad.json
+.snapshots/*
