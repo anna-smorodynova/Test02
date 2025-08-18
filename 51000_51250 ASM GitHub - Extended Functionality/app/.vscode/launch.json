@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Stoneridge Sandbox Environment",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox",
+            "server": "https://businesscentral.dynamics.com/2e14a5b1-fbf8-415b-bc7d-93e20829e510/Sandbox",
+            "serverInstance": "2e14a5b1-fbf8-415b-bc7d-93e20829e510",
+            "tenant": "2e14a5b1-fbf8-415b-bc7d-93e20829e510",
+            "schemaUpdateMode": "Synchronize",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
+    ]
+}

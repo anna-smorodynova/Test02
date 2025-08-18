@@ -1,0 +1,21 @@
+{
+    "name": "Custom Stoneridge Ruleset",
+    "description": "A list of rules that are changed from defaults",
+    "rules": [
+        {
+            "id": "AA0072",
+            "action": "None",
+            "justification": "The name of variables and parameters must be suffixed with the type or object name."
+        },
+        {
+            "id": "AA0074",
+            "action": "None",
+            "justification": "Variable must have a suffix from this list: Msg, Tok, Err, Qst, Lbl, Txt."
+        },
+        {
+            "id": "AA0470",
+            "action": "None",
+            "justification": "Variable with placeholders should have a comment explaining their content."
+        }
+    ]
+}
